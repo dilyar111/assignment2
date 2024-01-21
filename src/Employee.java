@@ -1,6 +1,6 @@
 class Employee extends Person {
     private String position;
-    private double salary;
+    private double sala3ry;
 
     // Constructors
     public Employee() {

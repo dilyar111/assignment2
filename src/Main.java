@@ -23,4 +23,4 @@ public class Main {
             System.out.println(person + " earns " + person.getPaymentAmount() + " tenge");
         }
     }
-}
+}3
